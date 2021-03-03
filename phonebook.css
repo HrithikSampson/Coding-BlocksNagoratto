@@ -1,0 +1,35 @@
+body{
+    background-color: #bc6c25;
+    padding:5px;
+    height:95vh;
+    width:75vw;
+    display:block;
+}
+article{
+    border: 2px dashed red;
+    background-color: whitesmoke;
+    padding:0.1rem;
+    margin:10px 10px;
+    font-size: small;
+    display:block;
+}
+h2{
+    position:sticky;
+    top:40px;
+    display:block;
+    font-size:small;
+    justify-content: center;
+    background-color: #00b4d8;
+}
+.name{
+    border:0.4rem black;
+    margin:2px 0px 2px auto;
+    padding:0.04rem;
+    display:inline-block;
+}
+.number{
+    border:0.4rem black;
+    margin:2px auto 2px 0px;
+    padding:0.04rem;
+    display:inline-block;
+}
